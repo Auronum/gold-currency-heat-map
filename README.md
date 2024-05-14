@@ -1,6 +1,6 @@
 # Gold Currency Heat Map
 
-![Gold Currency Heat Map](gold-currency-heat-map/assets/screenshot-1.png)
+![Gold Currency Heat Map](assets/screenshot-1.png)
 
 ## Description
 
@@ -14,7 +14,7 @@ Gold Currency Heat Map is a WordPress plugin that allows you to embed a customiz
 
 ## Installation
 
-1. Upload the `gold-currency-heat-map` folder to the `/wp-content/plugins/` directory.
+1. Upload the `gold-currency-heat-map` folder to the `/wp-content/plugins/` directory. Or upload the `gold-currency-heat-map.zip` file in the 'Plugins' menu from wordpress.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Use the shortcode `[gold_currency_heat_map]` in your posts, pages, or widgets to embed the heat map.
 
@@ -26,8 +26,8 @@ You can customize the heat map's appearance by specifying a theme in the shortco
 
 ## Screenshots
 
-1. Screenshot of the Gold Currency Heat Map in light theme.
-2. Screenshot of the Gold Currency Heat Map in dark theme.
+1. ![Screenshot of the Gold Currency Heat Map in light theme](assets/screenshot-1.png)
+2. ![Screenshot of the Gold Currency Heat Map in dark theme](assets/screenshot-2.png)
 
 ## Changelog
 
