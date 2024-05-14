@@ -14,7 +14,7 @@ Gold Currency Heat Map is a WordPress plugin that allows you to embed a customiz
 
 ## Installation
 
-1. Upload the `gold-currency-heat-map` folder to the `/wp-content/plugins/` directory. Or upload the `gold-currency-heat-map.zip` file in the 'Plugins' menu from wordpress.
+1. Upload the `gold-currency-heat-map` folder to the `/wp-content/plugins/` directory. Or upload the `gold-currency-heat-map.zip` file in the 'Plugins' menu from WordPress.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Use the shortcode `[gold_currency_heat_map]` in your posts, pages, or widgets to embed the heat map.
 
@@ -50,6 +50,10 @@ For technical support or inquiries, please contact us at [support@auronum.co.uk]
 ## Visit Us
 
 Visit our website at [auronum.co.uk](https://auronum.co.uk) for more information.
+
+## Download
+
+You can download the latest release of Gold Currency Heat Map from [GitHub](https://github.com/yourusername/gold-currency-heat-map/releases/latest).
 
 ## Thank You
 
