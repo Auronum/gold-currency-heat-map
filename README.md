@@ -29,6 +29,11 @@ You can customize the heat map's appearance by specifying a theme in the shortco
 1. ![Screenshot of the Gold Currency Heat Map in light theme](assets/screenshot-1.png)
 2. ![Screenshot of the Gold Currency Heat Map in dark theme](assets/screenshot-2.png)
 
+
+## Download
+
+You can download the latest release of Gold Currency Heat Map from [GitHub](https://github.com/Auronum/gold-currency-heat-map/releases).
+
 ## Changelog
 
 ### 1.0
@@ -50,10 +55,6 @@ For technical support or inquiries, please contact us at [support@auronum.co.uk]
 ## Visit Us
 
 Visit our website at [auronum.co.uk](https://auronum.co.uk) for more information.
-
-## Download
-
-You can download the latest release of Gold Currency Heat Map from [GitHub](https://github.com/Auronum/gold-currency-heat-map/releases).
 
 ## Thank You
 
