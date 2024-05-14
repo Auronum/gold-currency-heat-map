@@ -53,7 +53,7 @@ Visit our website at [auronum.co.uk](https://auronum.co.uk) for more information
 
 ## Download
 
-You can download the latest release of Gold Currency Heat Map from [GitHub](https://github.com/yourusername/gold-currency-heat-map/releases/latest).
+You can download the latest release of Gold Currency Heat Map from [GitHub](https://github.com/Auronum/gold-currency-heat-map/releases).
 
 ## Thank You
 
